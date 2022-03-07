@@ -1,0 +1,2 @@
+C Language is a Procedural programing language developed by dennis richis in 1972
+c language is mid level programing language
